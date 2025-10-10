@@ -7,7 +7,7 @@
 function Navbar() {
     return (
         <>
-            <div className="w-screen h-16 bg-purple-950 flex flex-row items-center justify-center">
+            <div className="glass-container sticky w-screen h-16 flex flex-row items-center justify-center">
                 <ul className="flex flex-row list-none justify-evenly w-screen">
                     <li className="text-gray-500 px-4 text-lg hover:text-gray-300"><a href="/">Home</a></li>
                     <li className="text-gray-400 px-4 text-lg hover:text-gray-300"><a href="/blog">Blog</a></li>
