@@ -20,7 +20,7 @@ function About() {
                 id="about"
                 className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-pink-100 via-pink-300 to-pink-200"
             >
-                <h1 className="flex justify-center text-[4em]">About Me</h1>
+                <h1 className="flex justify-center text-[4em]">ALOE.ToString()</h1>
                 <motion.div
                     initial={{ opacity: 0, scale: 0}}
                     animate={{opacity: 1, scale: 1}}
