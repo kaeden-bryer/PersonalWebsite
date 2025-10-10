@@ -8,14 +8,14 @@ import Navbar from './components/Navbar.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <div className="fixed top-0 left-0 w-screen">
-      <Navbar />
-    </div>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/blog" element={<Blog />} />
       </Routes>
-    </BrowserRouter>    
+    </BrowserRouter>
+    <div className="fixed top-0 left-0 w-screen">
+      <Navbar />
+    </div>
   </StrictMode>,
 )

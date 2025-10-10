@@ -7,12 +7,14 @@
 function Navbar() {
     return (
         <>
-            <div className="glass-container sticky w-screen h-16 flex flex-row items-center justify-center mt-5">
+            <div className="sticky z-10 glass-container w-[80%] h-16 flex flex-row items-center justify-self-center justify-center mt-5">
                 <ul className="flex flex-row list-none justify-evenly w-screen">
-                    <li className="text-gray-500 px-4 text-lg hover:text-gray-300"><a href="/">Home</a></li>
-                    <li className="text-gray-400 px-4 text-lg hover:text-gray-300"><a href="/blog">Blog</a></li>
-                    <li className="text-gray-400 px-4 text-lg hover:text-gray-300"><a href="#about">About</a></li>
-                    <li className="text-gray-400 px-4 text-lg hover:text-gray-300"><a href="#contact">Contact</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="/">&lt; KB /&gt;</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="#about">About</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="/blog">Journals</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="/projects">Projects</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="#contact">Contact</a></li>
+                    <li className="text-gray-800 px-4 text-lg hover:text-gray-300"><a href="Resume.pdf">Resume</a></li>
                 </ul>
             </div>
         </>
