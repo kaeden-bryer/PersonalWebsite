@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router'
 import './index.css'
 import App from './App.tsx'
 import Blog from './components/Blog.tsx'
-import Navbar from './components/navbar.tsx'
+import Navbar from './components/Navbar.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

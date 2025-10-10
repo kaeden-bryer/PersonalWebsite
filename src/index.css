@@ -8,6 +8,16 @@ body {
   margin: 40px;
 }
 
+.glass-container {
+  padding: 30px 50px;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.184);
+  backdrop-filter: blur(3px);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 3px 3px 30px rgba(0, 0, 0, 0.2);
+}
+
 @layer base {
   html {
     @apply scroll-smooth;
