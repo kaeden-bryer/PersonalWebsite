@@ -7,8 +7,23 @@ function Hero() {
                 id="hero"
                 className="min-h-screen w-screen flex flex-col justify-center items-center bg-gradient-to-b from-green-100 via-green-300 to-green-200"
             >
-                <img src="green-cube.png" alt="pink cube" className="absolute left-[5em] bottom-[0px] w-[27%]"></img>
-                <img src="pink-cube.png" alt="pink cube" className="absolute right-[10px] top-[50px]"></img>
+                <motion.div
+                    initial={{opacity: 0, x:-100}}
+                    animate={{opacity: 1, x:0}}
+                    transition={{ duration: 1.5 }}
+                    className="absolute left-[1.5em] bottom-[20px] w-[27%]"
+                >
+                    <img src="green-cube.png" alt="pink cube" className="absolute bottom-[0px] w-full"></img>
+                </motion.div>
+
+                <motion.div
+                    initial={{opacity:0, x:100}}
+                    animate={{opacity: 1, x:0}}
+                    transition={{duration: 1.5}}
+                    className="absolute right-[1.5em] top-[50px] w-[27%]"
+                >
+                    <img src="pink-cube.png" alt="pink cube" className="absolute top-[50px] w-full"></img>
+                </motion.div>
                 
                 <div className="glass-container w-[80%] h-full flex flex-col justify-center items-center">
                 <motion.div
