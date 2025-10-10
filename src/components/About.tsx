@@ -18,7 +18,7 @@ function About() {
         <>
             <section
                 id="about"
-                className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-green-100 via-green-300 to-green-200"
+                className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-pink-100 via-pink-300 to-pink-200"
             >
                 <h1 className="flex justify-center text-[4em]">About Me</h1>
                 <motion.div
