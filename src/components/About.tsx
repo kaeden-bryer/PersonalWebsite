@@ -21,24 +21,26 @@ function About() {
         className="relative overflow-y-hidden min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-green-800 via-green-900 to-green-700"
       >
         <div className="absolute z-[2]">
-          <div className="flex flex-col justify-center w-[50%] justify-self-center">
+          <div className="flex flex-col justify-center w-[70%] justify-self-center">
             <h1 className="flex justify-center text-[4em]">ALOE.ToString()</h1>
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi ea
-              ut harum officiis dolores amet, vitae vel aliquid itaque iure
-              pariatur, aspernatur odit aut praesentium ullam nisi consectetur
-              corporis suscipit.
-            </p>
+            <h2 className="flex flex-col justify-start text-[2em]">Hi, I’m Kaeden Bryer.</h2> 
+            <p>I’m a junior in computer science at Oakland University.</p>
+
+            <p>My mission is to answer the question of how everyone can benefit from the explosion of AI, cloud and other new technologies, and not just major corporations. I’ve recorded all my takeaways both on this and in life in my blog.</p>
+
+            <p>I’m currently planning for GrizzHacks 8 and organizing tech talks from major speakers to benefit the Oakland SECS student body.</p>
+
+            <p>Here’s what I’m up to:</p>
           </div>
         </div>
 
         <svg
-          viewBox="0 0 200 200"
+          viewBox="0 0 150 150"
           xmlns="http://www.w3.org/2000/svg"
           className="absolute z-[0]"
         >
           {/* group positioned at center (100,100) so rotation happens around its center */}
-          <g transform="translate(100 100)">
+          <g transform="translate(75 75)">
             <path
               id="blob"
               fill="#ff8888"
@@ -72,12 +74,12 @@ function About() {
         </svg>
 
         <svg
-          viewBox="0 0 200 200"
+          viewBox="0 0 150 150"
           xmlns="http://www.w3.org/2000/svg"
           className="absolute z-[1]"
         >
           {/* group positioned at center (100,100) so rotation happens around its center */}
-          <g transform="translate(100 100)">
+          <g transform="translate(75 75)">
             <path
               id="blob"
               fill="#A7F0BA"
