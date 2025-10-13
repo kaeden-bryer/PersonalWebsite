@@ -1,19 +1,4 @@
-import * as motion from "motion/react-client";
-
 function About() {
-  const ball = {
-    width: 300,
-    height: 300,
-    backgroundColor: "coral",
-    borderRadius: "25%",
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    fontSize: "1.5em",
-    color: "white",
-    boxShadow: "0 10px 20px rgba(0,0,0,0.2)",
-  };
-
   return (
     <>
       <section
