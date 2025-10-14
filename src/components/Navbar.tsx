@@ -36,7 +36,7 @@ function Navbar() {
             <a href="#contact">Contact</a>
           </li>
           <li className="text-gray-800 px-4 text-lg hover:text-gray-300">
-            <a href="Resume.pdf">Resume</a>
+            <a href="Resume.pdf" target="_blank">Resume</a>
           </li>
         </ul>
       </div>
