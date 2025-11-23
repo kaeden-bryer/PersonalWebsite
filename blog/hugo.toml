@@ -1,4 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '''Kaeden's Blog'''
 theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    name="Home"
+    url= "/"
+    weight = 10
