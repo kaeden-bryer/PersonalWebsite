@@ -8,3 +8,6 @@ theme = 'PaperMod'
     name="Home"
     url= "/"
     weight = 10
+
+[params]
+  ShowBreadCrumbs = false
