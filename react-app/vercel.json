@@ -13,7 +13,7 @@
       "destination": "https://kaedens-blog.vercel.app/:match*"
     },
     {
-      "source": "/(.*)",
+      "source": "/((?!blog).*)",
       "destination": "/index.html"
     }
   ]
