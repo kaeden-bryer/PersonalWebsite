@@ -5,6 +5,10 @@
       "destination": "https://kaedens-blog.vercel.app/"
     },
     {
+      "source": "/blog/",
+      "destination": "https://kaedens-blog.vercel.app/"
+    },
+    {
       "source": "/blog/:match*",
       "destination": "https://kaedens-blog.vercel.app/:match*"
     },
