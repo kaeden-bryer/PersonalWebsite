@@ -7,6 +7,10 @@
     {
       "source": "/blog/:match*",
       "destination": "https://kaedens-blog.vercel.app/:match*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
