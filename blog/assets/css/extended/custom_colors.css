@@ -1,0 +1,10 @@
+:root {
+    --pink: #f8b7ed;
+    --theme: var(--pink);
+    --code-bg: var(--pink);
+}
+
+:root[data-theme="dark"] {
+    --dark-green: #253329;
+    --theme: var(--dark-green);
+}
