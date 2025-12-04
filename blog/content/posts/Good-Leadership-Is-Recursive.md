@@ -42,5 +42,3 @@ And this is only possible when leaders are future-sighted, letting members work 
 
 12.03.25
 
-
-
