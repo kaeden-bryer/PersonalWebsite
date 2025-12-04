@@ -1,7 +1,7 @@
 +++
 date = '2025-11-22T22:18:45-05:00'
 draft = false
-title = 'Welcome To Kaedens Blog (first published June 2024)'
+title = 'Welcome to Kaedens Blog (first published June 2024)'
 +++
 
 The passage of time is sneaking up on me. I'm now 20 years old. Whereas pre-college each year was easy to separate because I was growing in body and brain, I'm now reaching a point where I'm not going to become noticeably smarter each year, only more knowledgeable. My intelligence and personality have hit a point where they may remain for the foreseeable future. And this is disorienting, because this is the first time in my life this has happened.
