@@ -18,7 +18,7 @@ Consider the merge sort algorithm. You start with an unsorted group of numbers, 
 I've learned that this is, not coincidentally, what good leadership looks like. ***Good leadership follows a divide and conquer algorithm.***
 
 
-> [!Memo]
+> [!Idea]
 > Good leadership follows a divide and conquer algorithm.
 
 
