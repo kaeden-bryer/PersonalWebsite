@@ -16,11 +16,11 @@ And for 2 years now I've always wanted to start a blog but never did. I think I 
 
 
 
-Instead, I want this blog to document my process so that you can \*grow with me\*. To follow my journey and see the steps I've taken-- that way you can learn from the lessons that have crossed me. I'm not an expert, and I'm not a special case or shining example to be raised on a podium. Rather, I'm quite normal and that's where my lessons come from.
+Instead, I want this blog to document my process so that you can *grow with me*. To follow my journey and see the steps I've taken-- that way you can learn from the lessons that have crossed me. I'm not an expert, and I'm not a special case or shining example to be raised on a podium. Rather, I'm quite normal and that's where my lessons come from.
 
 
 
-Another big thing I want this blog to be about is \*just doing things\*. Being unafraid and beating perfectionism--doing things even if there's fear of doing things wrong. It's easier to change directions when you're moving than standing still. If something is amiss, I'll learn quicker by beginning than ruminating on the possibilities.
+Another big thing I want this blog to be about is *just doing things*. Being unafraid and beating perfectionism--doing things even if there's fear of doing things wrong. It's easier to change directions when you're moving than standing still. If something is amiss, I'll learn quicker by beginning than ruminating on the possibilities.
 
 
 
