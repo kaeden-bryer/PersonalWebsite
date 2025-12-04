@@ -19,7 +19,7 @@ I've learned that this is, not coincidentally, what good leadership looks like. 
 
 
 > [!Memo]
-> Good leadership follows a divide and conquer algorithm
+> Good leadership follows a divide and conquer algorithm.
 
 
 I used to always fall into the pitfall of doing everything myself, and then remarking at the outcome and considering it good leadership. My reasoning was that as long as the outcome was good, the person in charge must be a good leader. However, this just doesn't scale. Eventually, I could only do so much, and when I failed to delegate, everything crumbled. I've also seen other people I really respect do this. I respect them greatly, but in retrospect, that was because they were incredibly capable, not because they were great leaders.
@@ -30,7 +30,7 @@ There's this thing called the Master's Theorem, which tells you how fast a recur
 
 ![Recursion Tree Diagram](/recursion-tree.png)
 
-Now that I'm learning computer science, this feels like the best analogy I can describe for good leadership. Just because I'm doing lots of work and kept busy, that doesn't mean we are getting the most done as a team. Importantly, "divide and conquer" here also isn't simply dividing up the completion of tasks evenly between everyone. Continuing with the analogy, the completion of tasks is only the base case, but the *merge step* (merging tasks upwards to return the final answer) is where work really gets done.
+Now that I'm learning computer science, this feels like the best analogy I can describe for good leadership. Just because I'm doing lots of work and kept busy, that doesn't mean we are getting the most done as a team. Also, "divide and conquer" isn't just dividing up tasks evenly between everyone. Continuing with the analogy, the completion of tasks is only the base case, but the *merge step* (returning tasks upwards) is where work really gets done.
 
 
 So I've learned to not only split work up, but to focus on doing it well. At three levels, maybe the top level will steer the goals of the team. Then, the goals are given to the team leads (level two), who will plan tasks for achieving these goals. Finally, these tasks are delegated to everyone else, who will individually complete these tasks.
