@@ -2,9 +2,10 @@
 date = '2026-01-07T10:52:39-05:00'
 draft = false
 title = 'The Picture of Dorian Gray Thoughts'
+image = 'dorian-gray-cover.jpg'
 +++
 
-![Picture of Dorian Gray Cover](/dorian-gray-cover.jpg)
+![Picture of Dorian Gray Cover](dorian-gray-cover.jpg)
 
 The Picture of Dorian Gray by Oscar Wilde is a novel I've wanted to read since 13, but only just now finished at 22. The book is chilling, yet presents a beautiful analysis of what does (or doesn't) fulfill ones life, and the weight of the sins one must live with.
 

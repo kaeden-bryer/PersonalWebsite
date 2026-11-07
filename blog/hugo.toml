@@ -1,16 +1,85 @@
 baseURL = "https://kaedenbryer.com/blog/"
-languageCode = 'en-us'
+locale = 'en-us'
 title = '''Kaeden's Blog'''
-theme = 'PaperMod'
+theme = 'hugo-theme-stack'
 
 [menu]
   [[menu.main]]
-    name="Home"
-    url= "https://kaedenbryer.com"
+    identifier = "home"
+    name = "Home"
+    url = "https://kaedenbryer.com"
     weight = 10
+    [menu.main.params]
+      icon = "home"
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    pageRef = "/page/archives"
+    weight = 20
+    [menu.main.params]
+      icon = "archives"
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    pageRef = "/page/search"
+    weight = 30
+    [menu.main.params]
+      icon = "search"
+
+  [[menu.social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/kaeden-bryer"
+    weight = 10
+    [menu.social.params]
+      icon = "brand-github"
+
+  [[menu.social]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/kaeden_bryer/"
+    weight = 20
+    [menu.social.params]
+      icon = "brand-instagram"
+
+  [[menu.social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/kaeden-bryer/"
+    weight = 30
+    [menu.social.params]
+      icon = "brand-linkedin"
 
 [params]
-  ShowBreadCrumbs = false
+  mainSections = ["posts"]
+  rssFullContent = true
+
+  [params.footer]
+    since = 2024
+
+  [params.sidebar]
+    subtitle = ""
+    avatar = "img/me.png"
+
+  [params.article]
+    toc = true
+    readingTime = true
+
+  [params.widgets]
+    homepage = [
+      { type = "search" },
+      { type = "archives", params = { limit = 5 } },
+    ]
+    page = [{ type = "toc" }]
+
+  [params.comments]
+    enabled = false
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [module]
   [[module.imports]]
