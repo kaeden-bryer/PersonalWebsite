@@ -2,6 +2,7 @@
 date = '2026-11-14T19:16:53+02:00'
 draft = false
 title = 'Suomenlinna'
+image = 'suomenlinna.jpg'
 +++
 In November, it's cold, windy, rainy and gray in Helsinki. Sunlight lasts from 9:00 to 3:00 PM. It's hardly the "happiest place in the world" that I'd imagined, but the public transit system makes up for it. Traveling is as easy as purchasing an HSL day pass, and then showing the QR code to use all busses, trams, metros and even the ferry's. I pretty much just walked onto the Suomenlinna ferry on accident, and suddenly I was on a UNESCO world heritage site.
 
